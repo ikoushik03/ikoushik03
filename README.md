@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Self Project**
 
-- 💬 Ask me about **Java, SpringBoot, ReactJS**
+- 💬 Ask me about **Java, SpringBoot, ReactNative**
 
 - 📫 How to reach me **koushiksharma9939@gmail.com**
 
